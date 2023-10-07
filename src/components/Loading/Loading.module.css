@@ -1,0 +1,16 @@
+.catalog {
+  max-width: 1500px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.desc {
+  margin-bottom: 20px;
+}
+
+.block {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 50px;
+}
